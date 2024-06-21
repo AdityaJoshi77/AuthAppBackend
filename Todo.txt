@@ -1,0 +1,4 @@
+
+Define Controls
+Define Database url
+Define JWT_SECRET
